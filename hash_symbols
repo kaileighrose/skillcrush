@@ -1,0 +1,4 @@
+monkey_01 = { name: "Manolo", age: "101 years", fav_food: "chocolate covered bananas", deepest_desire: "to fly" }
+
+puts monkey_01.inspect
+puts monkey_01[:deepest_desire]
